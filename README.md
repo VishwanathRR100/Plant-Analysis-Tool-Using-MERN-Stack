@@ -1,2 +1,2 @@
-# Plant-Analysis-Tool-Using-MERN-Stack
- Plant Analysis Tool Using MERN Stack and Google Gemini AI API
+# Plant-Analysis-Tool-Using-NodeJS-ExpressJS
+ Plant Analysis Tool Using Node js , Express js and Google Gemini AI API
